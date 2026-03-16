@@ -1,0 +1,28 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      70
+    ],
+    "SourceCsetId": 71,
+    "DestinationCsetId": 70,
+    "FileConflicts": [
+      {
+        "Path": "/Assets/20 Logos PSD/Fonts/firasansheavy/FiraSans-UltraItalic SDF.asset",
+        "ItemId": 2853,
+        "ParentItemId": 2611,
+        "BaseRevId": 3844,
+        "SourceRevId": 3952,
+        "DestinationRevId": 3844
+      },
+      {
+        "Path": "/Assets/20 Logos PSD/Fonts/foo/foo SDF.asset",
+        "ItemId": 2867,
+        "ParentItemId": 2614,
+        "BaseRevId": 3845,
+        "SourceRevId": 3953,
+        "DestinationRevId": 3845
+      }
+    ]
+  }
+]
