@@ -114,7 +114,7 @@ Assets/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Apoorv-34/Friend-Forever-Game-.git
+git clone https://github.com/Apoorv-34/First-period-faces.git
 ```
 2. Open in **Unity 6** (version 6000.2.14f1 or later)
 3. Open the `StartScene` from `Assets/Scenes/`
