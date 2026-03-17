@@ -124,7 +124,11 @@ git clone https://github.com/Apoorv-34/Friend-Forever-Game-.git
 
 ## 👥 Credits
 
-- **Apoorv Goyal** — Developer, Scripting, Game Design
+- **Apoorv Goyal** — Developer, Scripting
+- Built at **Global Game Jam — Indore**
+- Unity 6 · URP · C#
+
+-  **Aditya Ahuja** — Developer, Scripting
 - Built at **Global Game Jam — Indore**
 - Unity 6 · URP · C#
 
