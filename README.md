@@ -9,10 +9,10 @@ Built for **Global Game Jam** | Engine: **Unity 6.2** | Genre: **Social Sim / Vi
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](Screenshots/mainmenu.png)
+![Main Menu](mainmenu.png)
 
 ### Classroom Exploration
-![Classroom](Screenshots/classroom.png)
+![Classroom](classroom.png)
 
 ### Dialogue System
 ![Dialogue](Screenshots/dialogue.png)
